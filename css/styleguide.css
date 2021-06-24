@@ -1,0 +1,27 @@
+:root {
+  --cerulean: #00a3e0;
+  --cloud-burst: #2b2952;
+  --cyber-grape: #5e4e7a;
+  --east-bay: #525580;
+  --gun-powder: #423a61;
+  --just-right: #ebccc0;
+  --sazerac: #ffebe0;
+  --strikemaster: #8f6d85;
+  --venus: #9d8793;
+  --white: #ffffff;
+
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-xl: 26px;
+  --font-size-xxl: 35px;
+
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
