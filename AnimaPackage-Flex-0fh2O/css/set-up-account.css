@@ -1,0 +1,152 @@
+/* screen - set-up-account */
+
+.set-up-account {
+  align-items: center;
+  background-color: var(--shark);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  padding: 252.2px 0;
+  width: 1920px;
+}
+.set-up-account .btnclose {
+  align-items: flex-start;
+  background-image: url(../img/bg@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 3.0px;
+  margin-top: 19px;
+  min-width: 392px;
+  mix-blend-mode: normal;
+  padding: 4.5px 94.5px;
+}
+.set-up-account .btnsignupemail {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  margin-right: 3.0px;
+  margin-top: 80px;
+  min-width: 392px;
+}
+.set-up-account .divider {
+  height: 1px;
+  margin-left: 28.23px;
+  margin-top: 4px;
+  object-fit: cover;
+  width: 33px;
+}
+.set-up-account .fox-face-logo {
+  height: 41px;
+  margin-left: 0;
+  object-fit: cover;
+  width: 72px;
+}
+.set-up-account .line-23 {
+  height: 2px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 144px;
+}
+.set-up-account .messagingleft {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.0px;
+  min-height: 92px;
+  width: 219px;
+}
+.set-up-account .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/bg-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  margin-bottom: -25px;
+  min-width: 422px;
+  padding: 9.5px 142.5px;
+}
+.set-up-account .sign-in {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -8px;
+  margin-left: 2.0px;
+  margin-top: 10px;
+  min-height: 22px;
+  min-width: 52px;
+  text-align: center;
+  white-space: nowrap;
+}
+.set-up-account .sign-up {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 15px;
+  letter-spacing: 0.22px;
+  line-height: 15px;
+  margin-left: 1.7px;
+  min-height: 23px;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+}
+.set-up-account .sign-up-with-email {
+  letter-spacing: 0.21px;
+  line-height: 35px;
+  min-height: 22px;
+  min-width: 134px;
+  text-align: center;
+  white-space: nowrap;
+}
+.set-up-account .tabs {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.53px;
+  margin-top: 12px;
+  min-height: 221px;
+  width: 217px;
+}
+.set-up-account .tabsignup {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 0;
+  margin-top: 94px;
+  min-height: 34px;
+  width: 144px;
+}
+.set-up-account .text-97 {
+  letter-spacing: 0.21px;
+  line-height: 35px;
+  min-height: 22px;
+  min-width: 200px;
+  text-align: center;
+  white-space: nowrap;
+}
+.set-up-account .text-98 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 33px;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 79px;
+  white-space: nowrap;
+}
+.set-up-account .text-99 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -8px;
+  margin-left: 3.0px;
+  margin-top: 140px;
+  min-height: 22px;
+  min-width: 219px;
+  text-align: center;
+  white-space: nowrap;
+  width: 219px;
+}

@@ -1,0 +1,270 @@
+/* screen - log-in */
+
+.log-in {
+  align-items: flex-end;
+  background-color: var(--shark);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  padding: 263px 802px;
+  width: 1920px;
+}
+.log-in .button {
+  align-items: center;
+  background-color: var(--cerulean);
+  border-radius: 36px;
+  box-shadow: 0px 10px 10px #1c2831;
+  display: flex;
+  height: 52px;
+  left: 10px;
+  min-width: 295px;
+  padding: 14.0px 111.2px;
+  position: absolute;
+  top: 344px;
+}
+.log-in .content {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 484px;
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+.log-in .create-account {
+  cursor: pointer;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 479px;
+  white-space: nowrap;
+}
+.log-in .ellipse {
+  border: 1px solid var(--black);
+  border-radius: 2.0130832195281982px;
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 5px;
+}
+.log-in .email {
+  color: #28292a;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  letter-spacing: -0.16px;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+.log-in .fox-face-logo {
+  align-self: center;
+  height: 41px;
+  margin-left: 1.0px;
+  object-fit: cover;
+  width: 72px;
+}
+.log-in .icon-arrow-small {
+  align-items: flex-start;
+  display: flex;
+  height: 8px;
+  margin-bottom: 0.03px;
+  min-width: 10px;
+}
+.log-in .icon-mail {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  justify-content: center;
+  left: 21px;
+  min-width: 20px;
+  position: absolute;
+  top: 23px;
+}
+.log-in .icon-padlock {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  left: 21px;
+  min-width: 20px;
+  position: absolute;
+  top: 18px;
+}
+.log-in .input-field {
+  align-items: flex-end;
+  background-color: var(--catskill-white);
+  border-radius: 8px;
+  display: flex;
+  height: 60px;
+  left: 0;
+  min-width: 315px;
+  padding: 17.0px 60px;
+  position: absolute;
+  top: 0;
+}
+.log-in .input-field-1 {
+  align-items: flex-end;
+  background-image: url(../img/path-969@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 60px;
+  left: 0;
+  min-width: 315px;
+  padding: 17.0px 60px;
+  position: absolute;
+  top: 0;
+}
+.log-in .line {
+  height: 3px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+.log-in .line-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+.log-in .login {
+  color: var(--catskill-white);
+  font-family: var(--font-family-poppins);
+  font-size: 38px;
+  letter-spacing: 0.57px;
+  line-height: 38px;
+  margin-left: 3.0px;
+  min-height: 55px;
+  min-width: 104px;
+  text-align: center;
+  white-space: nowrap;
+}
+.log-in .new-user {
+  color: var(--sunglow);
+  font-family: var(--font-family-poppins);
+  font-size: 18px;
+  letter-spacing: -0.18px;
+  line-height: 18px;
+  margin-left: 40.0px;
+  margin-top: 162px;
+  min-height: 27px;
+  min-width: 133px;
+  width: 133px;
+}
+.log-in .overlap-group {
+  height: 501px;
+  margin-top: 7px;
+  position: relative;
+  width: 315px;
+}
+.log-in .overlap-group1 {
+  height: 60px;
+  margin-top: 17px;
+  position: relative;
+  width: 315px;
+}
+.log-in .overlap-group1-1 {
+  height: 10px;
+  margin-top: -0.71px;
+  position: relative;
+  width: 11px;
+}
+.log-in .overlap-group2 {
+  border-radius: 8px;
+  height: 60px;
+  margin-top: 104px;
+  position: relative;
+  width: 315px;
+}
+.log-in .overlap-group3 {
+  height: 16px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 21px;
+}
+.log-in .overlap-group3-1 {
+  height: 23px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 21px;
+}
+.log-in .password {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  letter-spacing: -0.16px;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 78px;
+  white-space: nowrap;
+}
+.log-in .path {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 21px;
+}
+.log-in .path-1 {
+  height: 9px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+.log-in .path-2 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+.log-in .path-3 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 21px;
+}
+.log-in .path-4 {
+  height: 6px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+.log-in .path-5 {
+  height: 10px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+.log-in .sign-in {
+  align-self: flex-end;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  margin-left: 9px;
+  min-height: 22px;
+  min-width: 50px;
+  white-space: nowrap;
+}

@@ -1,0 +1,628 @@
+/* screen - questionnaire */
+
+.questionnaire {
+  background-color: var(--shark);
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+.questionnaire .applicant {
+  left: 295px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 58px;
+  width: 218px;
+}
+.questionnaire .continue {
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 16px;
+  width: 76px;
+}
+.questionnaire .dashboard {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 115px;
+  white-space: nowrap;
+}
+.questionnaire .documents {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 322px;
+  width: 108px;
+}
+.questionnaire .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 415px;
+  width: 212px;
+}
+.questionnaire .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 415px;
+  width: 211px;
+}
+.questionnaire .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  min-height: 555px;
+  width: 227px;
+}
+.questionnaire .flex-col-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4px;
+  min-height: 555px;
+  width: 210px;
+}
+.questionnaire .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 490px;
+  min-height: 322px;
+  position: absolute;
+  top: 543px;
+  width: 211px;
+}
+.questionnaire .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 555px;
+  left: 721px;
+  min-width: 903px;
+  position: absolute;
+  top: 326px;
+}
+.questionnaire .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  margin-left: 1.0px;
+  margin-top: 98px;
+  min-width: 84px;
+}
+.questionnaire .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 27px;
+  left: 1313px;
+  min-width: 468px;
+  position: absolute;
+  top: 101px;
+}
+.questionnaire .fox-face-logo {
+  border-radius: 21px;
+  height: 41px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 72px;
+}
+.questionnaire .foxface-account {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 368px;
+  width: 154px;
+}
+.questionnaire .group-876 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  display: flex;
+  margin-top: 86px;
+  min-width: 188px;
+}
+.questionnaire .group-876-1 {
+  align-items: flex-start;
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  display: flex;
+  margin-right: 5.01px;
+  margin-top: 86px;
+  min-width: 188px;
+}
+.questionnaire .group-890 {
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 490px;
+  position: absolute;
+  top: 326px;
+  width: 208px;
+}
+.questionnaire .i-am-a-student {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 210px;
+}
+.questionnaire .icon-awesome-business-time {
+  height: 36px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 45px;
+}
+.questionnaire .icon-awesome-check-circle {
+  height: 81px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 74px;
+}
+.questionnaire .icon-awesome-file-contract {
+  height: 36px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 27px;
+}
+.questionnaire .icon-awesome-money-bill-wave {
+  height: 32px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 45px;
+}
+.questionnaire .icon-awesome-ring {
+  height: 27px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 36px;
+}
+.questionnaire .icon-awesome-search {
+  align-self: center;
+  height: 12px;
+  margin-bottom: 4.0px;
+  margin-left: 71px;
+  object-fit: cover;
+  width: 12px;
+}
+.questionnaire .icon-ionic-ios-arrow-back {
+  height: 24px;
+  object-fit: cover;
+  width: 14px;
+}
+.questionnaire .icon-ionic-md-chatboxes {
+  align-items: flex-end;
+  display: flex;
+  min-width: 29px;
+}
+.questionnaire .icon-material-attach-money {
+  height: 27px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 15px;
+}
+.questionnaire .icon-material-child-friendly {
+  height: 30px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 28px;
+}
+.questionnaire .icon-material-people-outline {
+  height: 21px;
+  left: 580px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 33px;
+}
+.questionnaire .icon-material-school {
+  height: 27px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 33px;
+}
+.questionnaire .icon-material-work {
+  height: 28px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 30px;
+}
+.questionnaire .icon-metro-cross {
+  height: 31px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 31px;
+}
+.questionnaire .logout {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 987px;
+  white-space: nowrap;
+}
+.questionnaire .overlap-group {
+  height: 197px;
+  margin-top: 20px;
+  position: relative;
+  width: 210px;
+}
+.questionnaire .overlap-group-1 {
+  height: 197px;
+  position: relative;
+  width: 210px;
+}
+.questionnaire .overlap-group-2 {
+  height: 1066px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 279px;
+}
+.questionnaire .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/path-981-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 237px;
+  margin-top: 0;
+  min-width: 189px;
+  padding: 0 0.2px;
+}
+.questionnaire .overlap-group1-1 {
+  border-radius: 10px;
+  height: 54px;
+  position: relative;
+  width: 188px;
+}
+.questionnaire .overlap-group10 {
+  height: 197px;
+  position: relative;
+  width: 211px;
+}
+.questionnaire .overlap-group11 {
+  align-items: flex-start;
+  background-image: url(../img/path-984-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  left: 25px;
+  min-width: 94px;
+  position: absolute;
+  top: 0;
+}
+.questionnaire .overlap-group15 {
+  height: 27px;
+  position: relative;
+  width: 29px;
+}
+.questionnaire .overlap-group3 {
+  height: 197px;
+  margin-top: 20px;
+  position: relative;
+  width: 209px;
+}
+.questionnaire .overlap-group4 {
+  height: 523px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 698px;
+}
+.questionnaire .overlap-group6 {
+  height: 197px;
+  margin-left: 0.92px;
+  position: relative;
+  width: 211px;
+}
+.questionnaire .overlap-group7 {
+  height: 197px;
+  margin-left: 0.92px;
+  position: relative;
+  width: 210px;
+}
+.questionnaire .overlap-group9 {
+  height: 197px;
+  margin-left: 0.06px;
+  margin-top: 20px;
+  position: relative;
+  width: 209px;
+}
+.questionnaire .path-1122 {
+  height: 22px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+.questionnaire .path-1123 {
+  height: 23px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+.questionnaire .path-982 {
+  align-self: center;
+  height: 192px;
+  object-fit: cover;
+  width: 49px;
+}
+.questionnaire .path-983 {
+  height: 23px;
+  object-fit: cover;
+  width: 70px;
+}
+.questionnaire .path-985 {
+  height: 96px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 25px;
+}
+.questionnaire .path-986 {
+  height: 11px;
+  object-fit: cover;
+  width: 35px;
+}
+.questionnaire .path-987 {
+  height: 2px;
+  left: 295px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 1483px;
+}
+.questionnaire .place {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 19px;
+  width: 69px;
+}
+.questionnaire .place-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 16px;
+  min-height: 25px;
+  min-width: 54px;
+  width: 54px;
+}
+.questionnaire .rectangle-1539 {
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+.questionnaire .rectangle-1539-1 {
+  background-color: var(--cerulean);
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+.questionnaire .rectangle-1553 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.questionnaire .rectangle-1553-1 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.questionnaire .rectangle-1553-2 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.questionnaire .rectangle-1553-3 {
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.questionnaire .rectangle-1570 {
+  background-color: var(--shark);
+  box-shadow: 10px 10px 10px #00000029;
+  height: 1066px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 194px;
+}
+.questionnaire .rectangle-2 {
+  background-color: var(--shark);
+  border-radius: 5px;
+  box-shadow: 0px 3px 26px #0000001c;
+  height: 137px;
+  left: 14px;
+  position: absolute;
+  top: 15px;
+  width: 167px;
+}
+.questionnaire .ring-chart7 {
+  align-items: flex-start;
+  display: flex;
+  height: 237px;
+  left: 41px;
+  min-width: 238px;
+  position: absolute;
+  top: 171px;
+}
+.questionnaire .ring-chart9 {
+  height: 119px;
+  left: 511px;
+  position: absolute;
+  top: 365px;
+  width: 119px;
+}
+.questionnaire .save-finish-later {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 16px;
+  width: 149px;
+}
+.questionnaire .search {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 5px;
+  margin-top: 0.5px;
+  min-height: 25px;
+  width: 67px;
+}
+.questionnaire .text-38 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  width: 210px;
+}
+.questionnaire .text-382 {
+  left: 502px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 408px;
+  width: 187px;
+}
+.questionnaire .text-383 {
+  height: 49px;
+  left: 401px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 211px;
+  width: 1316px;
+}
+.questionnaire .text-384 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: 209px;
+}
+.questionnaire .text-385 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  width: 210px;
+}
+.questionnaire .text-386 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 103px;
+  width: 210px;
+}
+.questionnaire .text-387 {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  width: 210px;
+}
+.questionnaire .text-39 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  width: 209px;
+}
+.questionnaire .text-392 {
+  left: 562px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 275px;
+  width: 993px;
+}
+.questionnaire .text-393 {
+  letter-spacing: 0.32px;
+  line-height: 16px;
+  margin-left: 11px;
+  min-height: 25px;
+  min-width: 271px;
+  text-align: center;
+  width: 271px;
+}

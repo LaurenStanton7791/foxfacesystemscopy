@@ -1,0 +1,640 @@
+/* screen - applicant-questionnaire */
+
+.applicant-questionnaire {
+  background-color: var(--shark);
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+.applicant-questionnaire .applicant {
+  left: 295px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 58px;
+  width: 209px;
+}
+.applicant-questionnaire .continue {
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 16px;
+  width: 76px;
+}
+.applicant-questionnaire .dashboard {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 115px;
+  white-space: nowrap;
+}
+.applicant-questionnaire .documents {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 322px;
+  width: 108px;
+}
+.applicant-questionnaire .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 413px;
+  width: 212px;
+}
+.applicant-questionnaire .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 413px;
+  width: 211px;
+}
+.applicant-questionnaire .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 17px;
+  min-height: 413px;
+  width: 211px;
+}
+.applicant-questionnaire .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+  min-height: 413px;
+  width: 214px;
+}
+.applicant-questionnaire .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 413px;
+  left: 731px;
+  min-width: 894px;
+  position: absolute;
+  top: 302px;
+}
+.applicant-questionnaire .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 55px;
+  left: 502px;
+  min-width: 1121px;
+  position: absolute;
+  top: 815px;
+}
+.applicant-questionnaire .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 27px;
+  left: 1313px;
+  min-width: 468px;
+  position: absolute;
+  top: 101px;
+}
+.applicant-questionnaire .fox-face-logo {
+  border-radius: 21px;
+  height: 41px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 72px;
+}
+.applicant-questionnaire .foxface-account {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 368px;
+  width: 154px;
+}
+.applicant-questionnaire .group-876 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  display: flex;
+  margin-left: 649px;
+  min-width: 188px;
+}
+.applicant-questionnaire .group-876-1 {
+  align-items: flex-start;
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  display: flex;
+  min-width: 188px;
+}
+.applicant-questionnaire .group-889 {
+  align-items: flex-start;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 188px;
+}
+.applicant-questionnaire .icon-awesome-award {
+  height: 36px;
+  left: 601px;
+  object-fit: cover;
+  position: absolute;
+  top: 365px;
+  width: 27px;
+}
+.applicant-questionnaire .icon-awesome-business-time {
+  height: 36px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 45px;
+}
+.applicant-questionnaire .icon-awesome-file-contract {
+  height: 36px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 27px;
+}
+.applicant-questionnaire .icon-awesome-hands-helping {
+  height: 36px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 45px;
+}
+.applicant-questionnaire .icon-awesome-money-bill-wave {
+  height: 32px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 45px;
+}
+.applicant-questionnaire .icon-awesome-money-check {
+  height: 32px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 45px;
+}
+.applicant-questionnaire .icon-awesome-question-circle {
+  height: 35px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 35px;
+}
+.applicant-questionnaire .icon-awesome-search {
+  align-self: center;
+  height: 12px;
+  margin-bottom: 4.0px;
+  margin-left: 71px;
+  object-fit: cover;
+  width: 12px;
+}
+.applicant-questionnaire .icon-ionic-ios-arrow-back {
+  height: 24px;
+  margin-bottom: 1.0px;
+  object-fit: cover;
+  width: 14px;
+}
+.applicant-questionnaire .icon-ionic-md-chatboxes {
+  align-items: flex-start;
+  display: flex;
+  min-width: 29px;
+}
+.applicant-questionnaire .icon-map-jewelry-store {
+  height: 28px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 31px;
+}
+.applicant-questionnaire .icon-material-attach-money {
+  height: 27px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 15px;
+}
+.applicant-questionnaire .icon-material-work {
+  height: 28px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 30px;
+}
+.applicant-questionnaire .logout {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 987px;
+  white-space: nowrap;
+}
+.applicant-questionnaire .overlap-group {
+  height: 197px;
+  margin-left: 0.91px;
+  position: relative;
+  width: 211px;
+}
+.applicant-questionnaire .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/path-981-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 237px;
+  min-width: 189px;
+  padding: 0.0px 0.2px;
+}
+.applicant-questionnaire .overlap-group1-1 {
+  height: 197px;
+  left: 503px;
+  position: absolute;
+  top: 518px;
+  width: 209px;
+}
+.applicant-questionnaire .overlap-group10 {
+  height: 197px;
+  margin-left: 2.0px;
+  margin-top: 18px;
+  position: relative;
+  width: 212px;
+}
+.applicant-questionnaire .overlap-group11 {
+  border-radius: 10px;
+  height: 54px;
+  position: relative;
+  width: 188px;
+}
+.applicant-questionnaire .overlap-group11-1 {
+  align-items: flex-start;
+  background-image: url(../img/path-984-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  left: 25px;
+  min-width: 94px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+}
+.applicant-questionnaire .overlap-group13 {
+  height: 27px;
+  margin-top: 0;
+  position: relative;
+  width: 29px;
+}
+.applicant-questionnaire .overlap-group2 {
+  height: 197px;
+  position: relative;
+  width: 210px;
+}
+.applicant-questionnaire .overlap-group3 {
+  height: 1066px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 279px;
+}
+.applicant-questionnaire .overlap-group4 {
+  height: 499px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 711px;
+}
+.applicant-questionnaire .overlap-group5 {
+  height: 197px;
+  margin-top: 19px;
+  position: relative;
+  width: 211px;
+}
+.applicant-questionnaire .overlap-group6 {
+  height: 197px;
+  margin-top: 19px;
+  position: relative;
+  width: 210px;
+}
+.applicant-questionnaire .overlap-group7 {
+  height: 197px;
+  margin-top: 19px;
+  position: relative;
+  width: 209px;
+}
+.applicant-questionnaire .overlap-group8 {
+  height: 197px;
+  margin-left: 0.85px;
+  position: relative;
+  width: 210px;
+}
+.applicant-questionnaire .overlap-group9 {
+  height: 197px;
+  margin-left: 0.09px;
+  position: relative;
+  width: 210px;
+}
+.applicant-questionnaire .path-1122 {
+  height: 22px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+.applicant-questionnaire .path-1123 {
+  height: 23px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+.applicant-questionnaire .path-982 {
+  height: 192px;
+  object-fit: cover;
+  width: 49px;
+}
+.applicant-questionnaire .path-983 {
+  height: 23px;
+  object-fit: cover;
+  width: 70px;
+}
+.applicant-questionnaire .path-985 {
+  height: 96px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 25px;
+}
+.applicant-questionnaire .path-986 {
+  height: 11px;
+  object-fit: cover;
+  width: 35px;
+}
+.applicant-questionnaire .path-987 {
+  height: 2px;
+  left: 295px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 1483px;
+}
+.applicant-questionnaire .place {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 19px;
+  width: 69px;
+}
+.applicant-questionnaire .place-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 16px;
+  margin-top: 1.62px;
+  min-height: 25px;
+  min-width: 54px;
+  width: 54px;
+}
+.applicant-questionnaire .rectangle-1539 {
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+.applicant-questionnaire .rectangle-1539-1 {
+  background-color: var(--cerulean);
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+.applicant-questionnaire .rectangle-1553 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.applicant-questionnaire .rectangle-1553-1 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.applicant-questionnaire .rectangle-1553-2 {
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.applicant-questionnaire .rectangle-1553-3 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.applicant-questionnaire .rectangle-1553-4 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 503px;
+  position: absolute;
+  top: 302px;
+  width: 208px;
+}
+.applicant-questionnaire .rectangle-1570 {
+  background-color: var(--shark);
+  box-shadow: 10px 10px 10px #00000029;
+  height: 1066px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 194px;
+}
+.applicant-questionnaire .rectangle-2 {
+  background-color: var(--shark);
+  border-radius: 5px;
+  box-shadow: 0px 3px 26px #0000001c;
+  height: 137px;
+  left: 14px;
+  position: absolute;
+  top: 15px;
+  width: 167px;
+}
+.applicant-questionnaire .ring-chart7 {
+  align-items: center;
+  display: flex;
+  height: 237px;
+  left: 41px;
+  min-width: 238px;
+  position: absolute;
+  top: 171px;
+}
+.applicant-questionnaire .ring-chart9 {
+  height: 119px;
+  left: 511px;
+  position: absolute;
+  top: 317px;
+  width: 119px;
+}
+.applicant-questionnaire .save-finish-later {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 16px;
+  width: 149px;
+}
+.applicant-questionnaire .search {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 5px;
+  margin-top: 0.5px;
+  min-height: 25px;
+  width: 67px;
+}
+.applicant-questionnaire .text-347 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: 209px;
+}
+.applicant-questionnaire .text-348 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  width: 210px;
+}
+.applicant-questionnaire .text-349 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: 210px;
+}
+.applicant-questionnaire .text-350 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  width: 211px;
+}
+.applicant-questionnaire .text-351 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  width: 210px;
+}
+.applicant-questionnaire .text-352 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  width: 209px;
+}
+.applicant-questionnaire .text-353 {
+  left: 592px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 219px;
+  width: 993px;
+}
+.applicant-questionnaire .text-354 {
+  letter-spacing: 0.32px;
+  line-height: 16px;
+  margin-left: 11px;
+  min-height: 25px;
+  min-width: 271px;
+  text-align: center;
+  width: 271px;
+}
+.applicant-questionnaire .text-355 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 98px;
+  width: 210px;
+}
+.applicant-questionnaire .text-356 {
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  width: 209px;
+}
+.applicant-questionnaire .text-357 {
+  left: 514px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 425px;
+  width: 187px;
+}
+.applicant-questionnaire .text-358 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  width: 209px;
+}

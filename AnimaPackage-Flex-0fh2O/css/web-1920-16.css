@@ -1,0 +1,673 @@
+/* screen - web-1920-16 */
+
+.web-1920-16 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  height: 2131px;
+  overflow: hidden;
+  width: 1920px;
+}
+.web-1920-16 .add-document {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 14px;
+  min-height: 30px;
+  min-width: 153px;
+  white-space: nowrap;
+}
+.web-1920-16 .analytics {
+  height: 40px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 40px;
+}
+.web-1920-16 .currency-exchange-2 {
+  height: 45px;
+  margin-left: 4.73px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 45px;
+}
+.web-1920-16 .dashboard {
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+}
+.web-1920-16 .dashboard-1 {
+  letter-spacing: 0;
+  line-height: 51px;
+  min-height: 74px;
+  white-space: nowrap;
+}
+.web-1920-16 .e-add {
+  height: 24px;
+  object-fit: cover;
+  width: 24px;
+}
+.web-1920-16 .ellipse-2 {
+  border-radius: 34px;
+  height: 146px;
+  left: 235px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 146px;
+}
+.web-1920-16 .file-approved {
+  left: 615px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 205px;
+  width: 225px;
+}
+.web-1920-16 .file-submitted {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 205px;
+  width: 225px;
+}
+.web-1920-16 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 73px;
+  margin-top: 62px;
+  min-height: 1403px;
+  width: 1544px;
+}
+.web-1920-16 .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -2px;
+  min-height: 113px;
+  width: 292px;
+}
+.web-1920-16 .flex-row {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  min-width: 1529px;
+}
+.web-1920-16 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 61.0px;
+  margin-top: 28px;
+  min-width: 1213px;
+}
+.web-1920-16 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 63.0px;
+  margin-top: 41px;
+  min-width: 1211px;
+}
+.web-1920-16 .fox-face-logo {
+  border-radius: 21px;
+  height: 41px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 72px;
+}
+.web-1920-16 .getting-married {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  width: 210px;
+}
+.web-1920-16 .group-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 9.0px;
+  margin-top: 54px;
+  min-height: 84px;
+  width: 82px;
+}
+.web-1920-16 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.0px;
+  margin-top: 56px;
+  min-height: 80px;
+  width: 56px;
+}
+.web-1920-16 .group-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13.0px;
+  margin-top: 37px;
+  min-height: 76px;
+  width: 126px;
+}
+.web-1920-16 .group-9 {
+  align-items: center;
+  background-color: var(--cerulean);
+  border-radius: 50px;
+  box-shadow: 0px 3px 26px #0000001c;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 236px;
+  padding: 13px 17px;
+  position: absolute;
+  top: 41px;
+}
+.web-1920-16 .header {
+  align-items: flex-start;
+  display: flex;
+  height: 111px;
+  min-width: 1321px;
+}
+.web-1920-16 .icon-awesome-business-time {
+  height: 36px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 45px;
+}
+.web-1920-16 .icon-awesome-file-contract {
+  height: 36px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 27px;
+}
+.web-1920-16 .icon-awesome-hand-holding-usd {
+  height: 36px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 38px;
+}
+.web-1920-16 .icon-awesome-money-bill-wave {
+  height: 32px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 45px;
+}
+.web-1920-16 .icon-awesome-piggy-bank {
+  height: 36px;
+  left: 548px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 40px;
+}
+.web-1920-16 .icon-awesome-question-circle {
+  height: 35px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 35px;
+}
+.web-1920-16 .icon-awesome-ring {
+  height: 27px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 36px;
+}
+.web-1920-16 .icon-material-attach-money {
+  height: 27px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 15px;
+}
+.web-1920-16 .icon-material-child-friendly {
+  height: 30px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 28px;
+}
+.web-1920-16 .icon-material-people-outline {
+  height: 21px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 33px;
+}
+.web-1920-16 .icon-material-school {
+  height: 27px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 33px;
+}
+.web-1920-16 .icon-material-work {
+  height: 28px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 30px;
+}
+.web-1920-16 .inbox {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 8px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+.web-1920-16 .logout {
+  height: 40px;
+  margin-left: 8.47px;
+  margin-top: 369px;
+  object-fit: cover;
+  width: 40px;
+}
+.web-1920-16 .logout-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 7.0px;
+  margin-top: 21px;
+  min-height: 30px;
+  min-width: 70px;
+  white-space: nowrap;
+}
+.web-1920-16 .marital-change {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  width: 210px;
+}
+.web-1920-16 .move-in {
+  left: 1308px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 205px;
+  width: 225px;
+}
+.web-1920-16 .name {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-bottom: 26.0px;
+  margin-left: 16px;
+  min-height: 41px;
+  min-width: 192px;
+  white-space: nowrap;
+}
+.web-1920-16 .new-childdependant {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  width: 210px;
+}
+.web-1920-16 .new-job {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+  width: 209px;
+}
+.web-1920-16 .notifications {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 11px;
+  min-height: 30px;
+  min-width: 126px;
+  white-space: nowrap;
+}
+.web-1920-16 .overlap-group {
+  height: 197px;
+  margin-left: 41px;
+  position: relative;
+  width: 210px;
+}
+.web-1920-16 .overlap-group1 {
+  align-self: flex-start;
+  height: 276px;
+  margin-top: 30px;
+  position: relative;
+  width: 1533px;
+}
+.web-1920-16 .overlap-group10 {
+  height: 232px;
+  margin-right: 59.0px;
+  margin-top: 53px;
+  position: relative;
+  width: 1179px;
+}
+.web-1920-16 .overlap-group11 {
+  height: 197px;
+  margin-left: 42px;
+  position: relative;
+  width: 209px;
+}
+.web-1920-16 .overlap-group12 {
+  align-items: center;
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  display: flex;
+  flex-direction: column;
+  min-height: 197px;
+  padding: 33.8px 0;
+  width: 208px;
+}
+.web-1920-16 .overlap-group13 {
+  align-self: flex-start;
+  height: 197px;
+  margin-left: 135px;
+  margin-top: 40px;
+  position: relative;
+  width: 211px;
+}
+.web-1920-16 .overlap-group14 {
+  align-self: flex-start;
+  height: 168px;
+  position: relative;
+  width: 185px;
+}
+.web-1920-16 .overlap-group15 {
+  align-items: flex-start;
+  background-image: url(../img/path-981@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 237px;
+  left: 49px;
+  min-width: 188px;
+  padding: 0.0px 0.0px;
+  position: absolute;
+  top: 0;
+}
+.web-1920-16 .overlap-group16 {
+  height: 146px;
+  margin-left: 687px;
+  margin-top: -27px;
+  position: relative;
+  width: 381px;
+}
+.web-1920-16 .overlap-group2 {
+  height: 197px;
+  margin-left: 40px;
+  position: relative;
+  width: 210px;
+}
+.web-1920-16 .overlap-group3 {
+  height: 197px;
+  margin-left: 42px;
+  position: relative;
+  width: 210px;
+}
+.web-1920-16 .overlap-group4 {
+  height: 197px;
+  margin-left: 43px;
+  position: relative;
+  width: 209px;
+}
+.web-1920-16 .overlap-group5 {
+  height: 1080px;
+  margin-left: -61px;
+  position: relative;
+  width: 263px;
+}
+.web-1920-16 .overlap-group6 {
+  height: 197px;
+  margin-left: 39px;
+  position: relative;
+  width: 210px;
+}
+.web-1920-16 .overlap-group7 {
+  height: 197px;
+  margin-left: 40px;
+  position: relative;
+  width: 211px;
+}
+.web-1920-16 .overlap-group8 {
+  height: 197px;
+  margin-left: 40px;
+  position: relative;
+  width: 209px;
+}
+.web-1920-16 .overlap-group9 {
+  height: 197px;
+  position: relative;
+  width: 211px;
+}
+.web-1920-16 .path-982 {
+  height: 192px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 49px;
+}
+.web-1920-16 .path-983 {
+  height: 23px;
+  object-fit: cover;
+  width: 70px;
+}
+.web-1920-16 .raise-bonus {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 35px;
+  min-height: 30px;
+  min-width: 136px;
+  width: 136px;
+}
+.web-1920-16 .rectangle-1553 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.web-1920-16 .rectangle-1553-1 {
+  background-color: var(--shark);
+  border-radius: 10px;
+  box-shadow: 0px 3px 26px #00000029;
+  height: 197px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+.web-1920-16 .rectangle-1554 {
+  background-color: var(--white);
+  height: 276px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 1516px;
+}
+.web-1920-16 .rectangle-1555 {
+  background-color: var(--sheen-green);
+  border-radius: 25px;
+  height: 21px;
+  left: 53px;
+  position: absolute;
+  top: 177px;
+  width: 1440px;
+}
+.web-1920-16 .rectangle-2 {
+  background-color: var(--shark);
+  border-radius: 5px;
+  box-shadow: 0px 3px 26px #0000001c;
+  height: 137px;
+  left: 18px;
+  position: absolute;
+  top: 31px;
+  width: 167px;
+}
+.web-1920-16 .ring-chart7 {
+  height: 237px;
+  left: 0;
+  position: absolute;
+  top: 262px;
+  width: 237px;
+}
+.web-1920-16 .settings {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 18px;
+  min-height: 30px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+.web-1920-16 .side-menu {
+  align-items: center;
+  background-color: var(--shark);
+  box-shadow: 0px 3px 26px #00000042;
+  display: flex;
+  flex-direction: column;
+  left: 62px;
+  min-height: 1080px;
+  position: absolute;
+  top: 0;
+  width: 201px;
+}
+.web-1920-16 .something-else {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 135px;
+  width: 210px;
+}
+.web-1920-16 .sound-wave {
+  height: 38px;
+  margin-left: 0.96px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 46px;
+}
+.web-1920-16 .text-88 {
+  height: 232px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1179px;
+}
+.web-1920-16 .text-89 {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  width: 210px;
+}
+.web-1920-16 .text-9 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  width: 209px;
+}
+.web-1920-16 .text-90 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  width: 210px;
+}
+.web-1920-16 .text-93 {
+  color: var(--black-2);
+  font-family: var(--font-family-poppins);
+  font-size: 45px;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 1459px;
+}
+.web-1920-16 .text-94 {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 235px;
+  width: 102px;
+}
+.web-1920-16 .text-95 {
+  left: 649px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 235px;
+  width: 102px;
+}
+.web-1920-16 .text-96 {
+  left: 1344px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 235px;
+  width: 102px;
+}
+.web-1920-16 .tuition-expenses {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+  width: 210px;
+}
+.web-1920-16 .welcome-back-todd {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 9px;
+  min-height: 30px;
+  white-space: nowrap;
+}

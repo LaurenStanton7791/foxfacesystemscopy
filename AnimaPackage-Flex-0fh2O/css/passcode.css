@@ -1,0 +1,123 @@
+/* screen - passcode */
+
+.passcode {
+  align-items: center;
+  background-color: var(--shark);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  padding: 184px 827px;
+  width: 1920px;
+}
+.passcode .ellipse-342 {
+  background-color: var(--white);
+  border-radius: 11px;
+  height: 22px;
+  opacity: 0.1;
+  width: 22px;
+}
+.passcode .enter-your-passcode {
+  letter-spacing: 0.29px;
+  line-height: 22px;
+  margin-left: 2.0px;
+  margin-top: 79px;
+  min-height: 33px;
+  min-width: 230px;
+  text-align: center;
+  white-space: nowrap;
+}
+.passcode .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 58.0px;
+  min-height: 217px;
+  width: 24px;
+}
+.passcode .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 71px;
+  min-height: 305px;
+  width: 24px;
+}
+.passcode .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 58.0px;
+  margin-left: 71px;
+  min-height: 217px;
+  width: 24px;
+}
+.passcode .fox-face-logo {
+  height: 41px;
+  object-fit: cover;
+  width: 72px;
+}
+.passcode .number {
+  letter-spacing: 0.74px;
+  line-height: 25px;
+  min-height: 41px;
+  min-width: 24px;
+  text-align: center;
+  white-space: nowrap;
+}
+.passcode .number-1 {
+  letter-spacing: 0.74px;
+  line-height: 25px;
+  margin-top: 47px;
+  min-height: 41px;
+  min-width: 24px;
+  text-align: center;
+  white-space: nowrap;
+}
+.passcode .numbers {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  height: 339px;
+  justify-content: flex-end;
+  margin-top: 77px;
+  min-width: 265px;
+  padding: 2px 25px;
+}
+.passcode .pin {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 32px;
+  min-width: 192px;
+}
+.passcode .pin-input-empty {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  margin-left: 12px;
+  min-width: 22px;
+}
+.passcode .pin-input-filled {
+  background-color: var(--white);
+  border-radius: 11px;
+  height: 22px;
+  width: 22px;
+}
+.passcode .pin-input-filled-1 {
+  background-color: var(--white);
+  border-radius: 11px;
+  height: 22px;
+  margin-left: 12px;
+  width: 22px;
+}
+.passcode .something-is-wrong {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 3.0px;
+  margin-top: 34px;
+  min-height: 22px;
+  min-width: 143px;
+  white-space: nowrap;
+}

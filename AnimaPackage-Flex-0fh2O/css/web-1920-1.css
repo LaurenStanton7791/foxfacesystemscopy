@@ -1,0 +1,220 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  align-items: center;
+  background-color: var(--shark);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  padding: 125.0px 462.5px;
+  width: 1920px;
+}
+.web-1920-1 .ddmmyyyy {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 37px;
+  min-width: 212px;
+  text-align: center;
+  width: 212px;
+}
+.web-1920-1 .effective-date {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-right: 178.0px;
+  margin-top: 17px;
+  min-height: 37px;
+  min-width: 196px;
+  text-align: center;
+  width: 196px;
+}
+.web-1920-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 112px;
+  min-width: 389px;
+}
+.web-1920-1 .fox-face-logo {
+  border-radius: 21px;
+  height: 41px;
+  object-fit: cover;
+  width: 72px;
+}
+.web-1920-1 .group-876 {
+  align-items: flex-start;
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  display: flex;
+  min-width: 188px;
+}
+.web-1920-1 .group-876-1 {
+  align-items: flex-start;
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  display: flex;
+  margin-left: 13px;
+  min-width: 188px;
+}
+.web-1920-1 .hello-sammie {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 2.0px;
+  margin-top: 20px;
+  min-height: 45px;
+  min-width: 430px;
+  text-align: center;
+  width: 430px;
+}
+.web-1920-1 .input-required-field {
+  background-color: var(--white);
+  height: 50px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+.web-1920-1 .input-typing {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 154px;
+  position: absolute;
+  top: 8px;
+  width: 367px;
+}
+.web-1920-1 .looks-good {
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 16px;
+  width: 103px;
+}
+.web-1920-1 .move-in-date {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 7px;
+  margin-top: 23px;
+  min-height: 37px;
+  min-width: 182px;
+  text-align: center;
+  width: 182px;
+}
+.web-1920-1 .overlap-group {
+  border-radius: 10px;
+  height: 54px;
+  position: relative;
+  width: 188px;
+}
+.web-1920-1 .overlap-group-1 {
+  height: 162px;
+  margin-right: 7.0px;
+  margin-top: 16px;
+  position: relative;
+  width: 367px;
+}
+.web-1920-1 .place {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 19px;
+  width: 69px;
+}
+.web-1920-1 .rectangle-131 {
+  align-self: flex-end;
+  background-color: var(--white);
+  border: 1px solid #7fc4fd;
+  height: 50px;
+  margin-top: 7px;
+  width: 360px;
+}
+.web-1920-1 .rectangle-1539 {
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+.web-1920-1 .rectangle-1539-1 {
+  background-color: var(--cerulean);
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+.web-1920-1 .save-finish-later {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 16px;
+  width: 149px;
+}
+.web-1920-1 .something-is-wrong {
+  color: var(--sunglow);
+  font-family: var(--font-family-poppins);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 3.0px;
+  margin-top: 75px;
+  min-height: 23px;
+  min-width: 161px;
+  text-align: center;
+  width: 161px;
+}
+.web-1920-1 .text-5 {
+  height: 62px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 2.0px;
+  margin-top: 18px;
+  min-height: 62px;
+  min-width: 430px;
+  text-align: center;
+  width: 430px;
+}
+.web-1920-1 .text-6 {
+  align-self: flex-end;
+  height: 52px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 9px;
+  min-height: 52px;
+  min-width: 993px;
+  text-align: center;
+  width: 993px;
+}
+.web-1920-1 .text-7 {
+  color: var(--cape-cod);
+  font-family: var(--font-family-poppins);
+  font-size: 25px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  width: 212px;
+}
+.web-1920-1 .text-8 {
+  color: var(--cape-cod);
+  font-family: var(--font-family-poppins);
+  font-size: 25px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 212px;
+}

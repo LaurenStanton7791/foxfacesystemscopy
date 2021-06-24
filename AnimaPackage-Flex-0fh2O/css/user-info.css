@@ -1,0 +1,401 @@
+/* screen - user-info */
+
+.user-info {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  height: 1080px;
+  padding: 0 287px;
+  width: 1920px;
+}
+.user-info .a-human-standing {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 323.5px;
+  min-width: 276px;
+}
+.user-info .accessories-shoe-flat-sneaker {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  justify-content: center;
+  left: 166px;
+  min-width: 58px;
+  position: absolute;
+  top: 214px;
+  transform: rotate(20.00deg);
+}
+.user-info .accessories-shoe-flat-sneaker-1 {
+  background-image: url(../img/shoe-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 246px;
+  width: 58px;
+}
+.user-info .body-jacket-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 167px;
+  justify-content: center;
+  left: 11px;
+  min-width: 254px;
+  position: absolute;
+  top: 89px;
+}
+.user-info .bottom-standing-sprint {
+  align-items: flex-end;
+  display: flex;
+  height: 267px;
+  left: 12px;
+  min-width: 264px;
+  position: absolute;
+  top: 166px;
+}
+.user-info .coat-back {
+  height: 110px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 117px;
+}
+.user-info .coat-front {
+  height: 145px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+.user-info .confirm-email {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+.user-info .confirm-password {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+.user-info .create-an-account {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-bottom: -1px;
+  margin-left: 19.0px;
+  margin-top: 7px;
+  min-height: 41px;
+  min-width: 267px;
+  white-space: nowrap;
+}
+.user-info .ellipse {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  height: 7px;
+  margin-left: 3px;
+  width: 7px;
+}
+.user-info .ellipse-6 {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  height: 7px;
+  width: 7px;
+}
+.user-info .email {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+.user-info .first-name {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+.user-info .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 236px;
+  margin-top: 73px;
+  min-height: 899px;
+  width: 320px;
+}
+.user-info .fox-face-logo {
+  height: 41px;
+  margin-left: 2.0px;
+  object-fit: cover;
+  width: 72px;
+}
+.user-info .hair {
+  height: 74px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 162px;
+}
+.user-info .head {
+  background-image: url(../img/path-1121@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 73px;
+  left: 123px;
+  position: absolute;
+  top: 38px;
+  width: 42px;
+}
+.user-info .head-front-airy {
+  align-items: flex-start;
+  display: flex;
+  height: 111px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 165px;
+  position: absolute;
+  top: 0;
+}
+.user-info .last-name {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+.user-info .leg {
+  height: 217px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 229px;
+}
+.user-info .leg-1 {
+  height: 229px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 143px;
+}
+.user-info .login {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  margin-left: 1.0px;
+  margin-top: 4px;
+  min-height: 19px;
+  min-width: 39px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+.user-info .name {
+  height: 20px;
+  letter-spacing: 0.28px;
+  line-height: 14px;
+  min-height: 20px;
+  min-width: 234px;
+  width: 234px;
+}
+.user-info .name-1 {
+  height: 20px;
+  letter-spacing: 0.28px;
+  line-height: 14px;
+  min-height: 20px;
+  min-width: 234px;
+  width: 234px;
+}
+.user-info .overlap-group {
+  align-items: flex-end;
+  background-color: var(--catskill-white);
+  border-radius: 2px;
+  display: flex;
+  height: 48px;
+  margin-top: 2px;
+  min-width: 315px;
+  padding: 13px 20px;
+}
+.user-info .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--catskill-white);
+  border-radius: 2px;
+  display: flex;
+  height: 48px;
+  margin-top: 2px;
+  min-width: 315px;
+  padding: 20px;
+}
+.user-info .overlap-group-2 {
+  align-items: center;
+  background-image: url(../img/path-2-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 48px;
+  margin-left: 1.0px;
+  margin-top: 61px;
+  min-width: 315px;
+  padding: 0 130px;
+}
+.user-info .overlap-group1 {
+  height: 111px;
+  margin-top: 0;
+  position: relative;
+  width: 165px;
+}
+.user-info .overlap-group2 {
+  height: 267px;
+  position: relative;
+  width: 264px;
+}
+.user-info .overlap-group3 {
+  height: 167px;
+  margin-bottom: 0;
+  position: relative;
+  width: 254px;
+}
+.user-info .overlap-group5 {
+  height: 433px;
+  position: relative;
+  width: 276px;
+}
+.user-info .pant {
+  height: 211px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 226px;
+}
+.user-info .pant-1 {
+  height: 212px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 143px;
+}
+.user-info .password {
+  align-items: flex-start;
+  display: flex;
+  min-width: 87px;
+}
+.user-info .password-1 {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+.user-info .rectangle-1475 {
+  background-color: var(--catskill-white);
+  border-radius: 2px;
+  height: 48px;
+  margin-top: 2px;
+  width: 315px;
+}
+.user-info .repeat-grid-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 33px;
+  min-height: 324px;
+  width: 320px;
+}
+.user-info .repeat-grid-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 11px;
+  min-height: 252px;
+  width: 315px;
+}
+.user-info .shirt {
+  height: 114px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+.user-info .shoe {
+  height: 39px;
+  margin-top: -9.3px;
+  object-fit: cover;
+  transform: rotate(-20.00deg);
+  width: 62px;
+}
+.user-info .sign-up {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 22px;
+  min-width: 54px;
+  white-space: nowrap;
+}
+.user-info .skin {
+  height: 120px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 254px;
+}
+.user-info .text-100 {
+  height: 20px;
+  letter-spacing: 0.28px;
+  line-height: 14px;
+  min-height: 20px;
+  min-width: 234px;
+  width: 234px;
+}
+.user-info .text-101 {
+  height: 20px;
+  letter-spacing: 0.28px;
+  line-height: 14px;
+  min-height: 20px;
+  min-width: 234px;
+  width: 234px;
+}
+.user-info .text-102 {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+.user-info .text-103 {
+  color: var(--sunglow);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  margin-left: 18.0px;
+  margin-top: 39px;
+  min-height: 19px;
+  min-width: 170px;
+  white-space: nowrap;
+}
+.user-info .x-box {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: -4px;
+  min-height: 69px;
+  width: 315px;
+}
+.user-info .x-box-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+  min-height: 69px;
+  width: 315px;
+}

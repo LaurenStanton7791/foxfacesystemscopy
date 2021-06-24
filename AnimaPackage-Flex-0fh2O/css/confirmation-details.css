@@ -1,0 +1,263 @@
+/* screen - confirmation-details */
+
+.confirmation-details {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  height: 1080px;
+  padding: 0 167px;
+  width: 1920px;
+}
+.confirmation-details .accessories-shoe-flat-sneaker {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: -3px;
+  min-width: 63px;
+  padding: 0 2.6px;
+  position: absolute;
+  top: 199px;
+  transform: rotate(50.00deg);
+}
+.confirmation-details .accessories-shoe-flat-sneaker-1 {
+  background-image: url(../img/shoe-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 22px;
+  left: 208px;
+  position: absolute;
+  top: 236px;
+  width: 63px;
+}
+.confirmation-details .body-hoodie {
+  align-items: flex-start;
+  display: flex;
+  height: 199px;
+  justify-content: flex-end;
+  left: 40px;
+  min-width: 229px;
+  position: absolute;
+  top: 59px;
+  transform: rotate(-10.00deg);
+}
+.confirmation-details .bottom-standing-baggy-pants {
+  align-items: flex-start;
+  display: flex;
+  height: 258px;
+  left: 0;
+  min-width: 271px;
+  position: absolute;
+  top: 177px;
+}
+.confirmation-details .coat-back {
+  height: 132px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  transform: rotate(10.00deg);
+  width: 121px;
+}
+.confirmation-details .coat-front {
+  height: 186px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  transform: rotate(10.00deg);
+  width: 127px;
+}
+.confirmation-details .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 216px;
+  min-height: 649px;
+  width: 342px;
+}
+.confirmation-details .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 381px;
+  margin-top: 243px;
+  min-height: 713px;
+  width: 729px;
+}
+.confirmation-details .fox-face-logo {
+  height: 41px;
+  margin-right: 11.72px;
+  object-fit: cover;
+  width: 72px;
+}
+.confirmation-details .hair {
+  height: 66px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  transform: rotate(15.00deg);
+  width: 60px;
+}
+.confirmation-details .head-front-short-beard {
+  align-items: flex-start;
+  display: flex;
+  height: 81px;
+  left: 103px;
+  min-width: 47px;
+  position: absolute;
+  top: 5px;
+  transform: rotate(-15.00deg);
+}
+.confirmation-details .humaaan-3 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  margin-top: 84px;
+  min-width: 285px;
+}
+.confirmation-details .leg {
+  height: 247px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+.confirmation-details .leg-1 {
+  height: 198px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 154px;
+}
+.confirmation-details .looks-great {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 107px;
+  width: 107px;
+}
+.confirmation-details .overlap-group {
+  align-items: flex-end;
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  margin-top: 85px;
+  min-width: 189px;
+  padding: 11px 39px;
+}
+.confirmation-details .overlap-group1 {
+  height: 435px;
+  margin-bottom: 0;
+  position: relative;
+  width: 285px;
+}
+.confirmation-details .overlap-group2 {
+  height: 101px;
+  margin-left: -19px;
+  margin-top: -11.74px;
+  position: relative;
+  width: 85px;
+}
+.confirmation-details .overlap-group3 {
+  height: 258px;
+  margin-top: 0;
+  position: relative;
+  width: 271px;
+}
+.confirmation-details .overlap-group4 {
+  height: 255px;
+  margin-top: -16.88px;
+  position: relative;
+  width: 262px;
+}
+.confirmation-details .pant {
+  height: 236px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 110px;
+}
+.confirmation-details .pant-1 {
+  height: 223px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 146px;
+}
+.confirmation-details .path-1117 {
+  height: 87px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  transform: rotate(15.00deg);
+  width: 64px;
+}
+.confirmation-details .shade {
+  height: 41px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  transform: rotate(10.00deg);
+  width: 30px;
+}
+.confirmation-details .shirt {
+  height: 136px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(10.00deg);
+  width: 106px;
+}
+.confirmation-details .shoe {
+  height: 63px;
+  margin-top: -20.07px;
+  object-fit: cover;
+  transform: rotate(-50.00deg);
+  width: 58px;
+}
+.confirmation-details .skin {
+  height: 134px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  transform: rotate(10.00deg);
+  width: 242px;
+}
+.confirmation-details .something-is-wrong {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: 103px;
+  min-height: 22px;
+  min-width: 141px;
+  white-space: nowrap;
+}
+.confirmation-details .text-104 {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 9.72px;
+  margin-top: 51px;
+  min-height: 38px;
+  min-width: 332px;
+  width: 332px;
+}
+.confirmation-details .text-105 {
+  height: 454px;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 454px;
+  min-width: 729px;
+  text-align: center;
+  width: 729px;
+}

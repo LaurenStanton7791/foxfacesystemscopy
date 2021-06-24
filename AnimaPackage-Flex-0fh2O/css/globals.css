@@ -1,0 +1,76 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,500,600|Montserrat:400");
+
+@font-face {
+  font-family: "Arial-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60bf9d9bf535567ec4e9ac56/fonts/arial.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Runda-Normal";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5d6ba63d97ac03b9cb7754ad/.7909.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TimesNew Roman-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/600ba0932cfbf5a95a984c45/fonts/time-roman-italic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "HelveticaNeue-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/609bac86cef20771db431fdc/fonts/hlb.ttf") format("truetype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.align-self-flex-end {
+  align-self: flex-end;
+}
+.auto-animated .container-center-vertical,
+.auto-animated .container-center-horizontal {
+  opacity: 1;
+}
+.auto-animated div {
+  opacity: 0;
+  position: absolute;
+  --z-index: -1;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.hidden,
+.hidden * {
+  visibility: hidden;
+  pointer-events: none;
+}
+.listeners-active,
+.listeners-active * {
+  pointer-events: auto;
+}
+.listeners-active-click,
+.listeners-active-click * {
+  cursor: pointer;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
