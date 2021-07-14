@@ -1,0 +1,890 @@
+/* screen - applicant-dashboard */
+
+.applicant-dashboard {
+  background-color: var(--shark);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.applicant-dashboard .rectangle-1570-kTKjMY {
+  background-color: var(--shark);
+  box-shadow: 10px 10px 10px #00000029;
+  height: 1066px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.applicant-dashboard .path-987-kTKjMY {
+  background-color: transparent;
+  height: 2px;
+  left: 295px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 1483px;
+}
+
+.applicant-dashboard .icon-awesome-search-kTKjMY {
+  background-color: transparent;
+  height: 12px;
+  left: 1696px;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 12px;
+}
+
+.applicant-dashboard .search-kTKjMY {
+  background-color: transparent;
+  height: auto;
+  left: 1714px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: 67px;
+}
+
+.applicant-dashboard .applicant-kTKjMY {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 295px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 203px;
+}
+
+.applicant-dashboard .rectangle-2-kTKjMY {
+  background-color: var(--shark);
+  border: 1px solid #707070;
+  border-radius: 5px;
+  box-shadow: 0px 3px 26px #0000001c;
+  height: 137px;
+  left: 14px;
+  position: absolute;
+  top: 15px;
+  width: 167px;
+}
+
+.applicant-dashboard .fox-face-logo-kTKjMY {
+  background-color: transparent;
+  border-radius: 21px;
+  height: 41px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 72px;
+}
+
+.applicant-dashboard .group-4-kTKjMY {
+  background-color: transparent;
+  height: 28px;
+  left: 41px;
+  position: absolute;
+  top: 115px;
+  width: 114px;
+}
+
+.applicant-dashboard .dashboard-u8NMJY {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.applicant-dashboard .ring-chart7-kTKjMY {
+  background-color: transparent;
+  height: 237px;
+  left: 41px;
+  position: absolute;
+  top: 171px;
+  width: 238px;
+}
+
+.applicant-dashboard .path-981-ajqD8o {
+  background-color: transparent;
+  height: 100%;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 49px);
+}
+
+.applicant-dashboard .path-982-ajqD8o {
+  background-color: transparent;
+  height: calc(100.00% - 45px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 49px;
+}
+
+.applicant-dashboard .path-983-ajqD8o {
+  background-color: transparent;
+  height: 23px;
+  left: calc(29.19% - 20px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.applicant-dashboard .logout-kTKjMY {
+  background-color: transparent;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 987px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.applicant-dashboard .ring-chart7-aBWEK4 {
+  background-color: transparent;
+  height: 237px;
+  left: 41px;
+  position: absolute;
+  top: 171px;
+  width: 238px;
+}
+
+.applicant-dashboard .path-981-U2DhH1 {
+  background-color: transparent;
+  height: 100%;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 49px);
+}
+
+.applicant-dashboard .path-982-U2DhH1 {
+  background-color: transparent;
+  height: calc(100.00% - 45px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 49px;
+}
+
+.applicant-dashboard .path-983-U2DhH1 {
+  background-color: transparent;
+  height: 23px;
+  left: calc(29.19% - 20px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.applicant-dashboard .foxface-account-kTKjMY {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 154px;
+}
+
+.applicant-dashboard .documents-kTKjMY {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 322px;
+  width: 108px;
+}
+
+.applicant-dashboard .ring-chart7-dwKUkk {
+  background-color: transparent;
+  height: 237px;
+  left: 41px;
+  position: absolute;
+  top: 171px;
+  width: 238px;
+}
+
+.applicant-dashboard .path-981-WxPMUF {
+  background-color: transparent;
+  height: 100%;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 49px);
+}
+
+.applicant-dashboard .path-982-WxPMUF {
+  background-color: transparent;
+  height: calc(100.00% - 45px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 49px;
+}
+
+.applicant-dashboard .path-983-WxPMUF {
+  background-color: transparent;
+  height: 23px;
+  left: calc(29.19% - 20px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.applicant-dashboard .logout-aBWEK4 {
+  background-color: transparent;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 987px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.applicant-dashboard .ring-chart7-iT3Pp6 {
+  background-color: transparent;
+  height: 237px;
+  left: 41px;
+  position: absolute;
+  top: 171px;
+  width: 238px;
+}
+
+.applicant-dashboard .path-981-NRlaDq {
+  background-color: transparent;
+  height: 100%;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 49px);
+}
+
+.applicant-dashboard .path-982-NRlaDq {
+  background-color: transparent;
+  height: calc(100.00% - 45px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 49px;
+}
+
+.applicant-dashboard .path-983-NRlaDq {
+  background-color: transparent;
+  height: 23px;
+  left: calc(29.19% - 20px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.applicant-dashboard .foxface-account-aBWEK4 {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 154px;
+}
+
+.applicant-dashboard .documents-aBWEK4 {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 322px;
+  width: 108px;
+}
+
+.applicant-dashboard .john-d-oe-kTKjMY {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 255px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 345px;
+  width: 175px;
+}
+
+.applicant-dashboard .rectangle-2961-kTKjMY {
+  background: linear-gradient(252.6deg, #262b2f 18.75%, rgba(0, 163, 224, 0.09) 105.91%);
+  background-color: transparent;
+  border-radius: 10px;
+  height: 434px;
+  left: 514px;
+  position: absolute;
+  top: 408px;
+  width: 852px;
+}
+
+.applicant-dashboard .group-877-kTKjMY {
+  background-color: transparent;
+  height: 54px;
+  left: 850px;
+  position: absolute;
+  top: 883px;
+  width: 188px;
+}
+
+.applicant-dashboard .group-876-c0Gb17 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .rectangle-1538-nwxbNC {
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .back-nwxbNC {
+  background-color: transparent;
+  bottom: calc(40.62% - 9px);
+  color: var(--sheen-green);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  right: calc(36.97% - 26px);
+  text-align: left;
+  width: 69px;
+}
+
+.applicant-dashboard .rectangle-1539-nwxbNC {
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .save-finish-later-nwxbNC {
+  background-color: transparent;
+  bottom: calc(44.83% - 11px);
+  height: 25px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 39px);
+}
+
+.applicant-dashboard .group-889-kTKjMY {
+  background-color: transparent;
+  height: 54px;
+  left: 1059px;
+  position: absolute;
+  top: 883px;
+  width: 188px;
+}
+
+.applicant-dashboard .group-876-PZNUPb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .rectangle-1538-i0B7gq {
+  background-color: var(--sheen-green);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .back-i0B7gq {
+  background-color: transparent;
+  bottom: calc(40.62% - 9px);
+  color: var(--sheen-green);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  right: calc(36.97% - 26px);
+  text-align: left;
+  width: 69px;
+}
+
+.applicant-dashboard .rectangle-1539-i0B7gq {
+  background-color: var(--cerulean);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .begin-application-i0B7gq {
+  background-color: transparent;
+  bottom: calc(46.55% - 12px);
+  height: 25px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 41px);
+}
+
+.applicant-dashboard .chat-with-a-property-manager-kTKjMY {
+  background-color: transparent;
+  color: #ffc845;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1354px;
+  letter-spacing: 0.32px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  width: 271px;
+}
+
+.applicant-dashboard .icon-ionic-md-chatboxes-kTKjMY {
+  background-color: transparent;
+  height: 27px;
+  left: 1313px;
+  position: absolute;
+  top: 101px;
+  width: 29px;
+}
+
+.applicant-dashboard .path-1122-OhTelr {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.applicant-dashboard .path-1123-OhTelr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 20px;
+}
+
+.applicant-dashboard .pre-screeningde-ce-incomeassets-kTKjMY {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 739px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  text-align: left;
+  top: 462px;
+  width: 307px;
+}
+
+.applicant-dashboard .rectangle-4316-kTKjMY {
+  background: linear-gradient(262.88deg, #262b2f 14.65%, rgba(0, 163, 224, 0.09) 105.81%);
+  background-color: transparent;
+  border-radius: 10px;
+  height: 173px;
+  left: 514px;
+  position: absolute;
+  top: 195px;
+  width: 852px;
+}
+
+.applicant-dashboard .household-membe-ly-doesusie-doe-kTKjMY {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 130px;
+  left: 739px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  top: 234px;
+  width: 288px;
+}
+
+.applicant-dashboard .span0-emiN5Q {
+  font-style: normal;
+  font-weight: 600;
+}
+
+.applicant-dashboard .span1-emiN5Q {
+}
+
+.applicant-dashboard .balegrist-garde-y-drportland-or-kTKjMY {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 123px;
+  left: 1077px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 230px;
+  width: 291px;
+}
+
+.applicant-dashboard .span0-2Lp6VV {
+  font-style: normal;
+  font-weight: 600;
+}
+
+.applicant-dashboard .span1-2Lp6VV {
+}
+
+.applicant-dashboard .head-of-household-kTKjMY {
+  background-color: transparent;
+  color: #ffc845;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 253px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 411px;
+  width: 346px;
+}
+
+.applicant-dashboard .icon-awesome-check-circle-kTKjMY {
+  background-color: transparent;
+  height: 35px;
+  left: 1059px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 36px;
+}
+
+.applicant-dashboard .group-1972-kTKjMY {
+  background-color: transparent;
+  height: 29px;
+  left: 1063px;
+  position: absolute;
+  top: 575px;
+  width: 28px;
+}
+
+.applicant-dashboard .ellipse-413-QGh4og {
+  background-color: transparent;
+  border-radius: 14px/14.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .x-QGh4og {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: calc(100.00% - 12px);
+}
+
+.applicant-dashboard .rectangle-1445-NxxW1w {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .union-3-NxxW1w {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .group-1975-kTKjMY {
+  background-color: transparent;
+  height: 29px;
+  left: 1063px;
+  position: absolute;
+  top: 636px;
+  width: 28px;
+}
+
+.applicant-dashboard .ellipse-413-Eewxdy {
+  background-color: transparent;
+  border-radius: 14px/14.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .x-Eewxdy {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: calc(100.00% - 12px);
+}
+
+.applicant-dashboard .rectangle-1445-Xz2uHq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .union-3-Xz2uHq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .group-1976-kTKjMY {
+  background-color: transparent;
+  height: 29px;
+  left: 1063px;
+  position: absolute;
+  top: 693px;
+  width: 28px;
+}
+
+.applicant-dashboard .ellipse-413-TdAL2W {
+  background-color: transparent;
+  border-radius: 14px/14.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .x-TdAL2W {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: calc(100.00% - 12px);
+}
+
+.applicant-dashboard .rectangle-1445-tqyKMU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .union-3-tqyKMU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .group-1977-kTKjMY {
+  background-color: transparent;
+  height: 29px;
+  left: 1063px;
+  position: absolute;
+  top: 514px;
+  width: 28px;
+}
+
+.applicant-dashboard .ellipse-413-CktFPR {
+  background-color: transparent;
+  border-radius: 14px/14.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .x-CktFPR {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 12px);
+}
+
+.applicant-dashboard .rectangle-1445-9xGyml {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .union-3-9xGyml {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .group-1978-kTKjMY {
+  background-color: transparent;
+  height: 29px;
+  left: 1063px;
+  position: absolute;
+  top: 757px;
+  width: 28px;
+}
+
+.applicant-dashboard .ellipse-413-kQgfPW {
+  background-color: transparent;
+  border-radius: 14px/14.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .x-kQgfPW {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: calc(100.00% - 12px);
+}
+
+.applicant-dashboard .rectangle-1445-q0CZmi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.applicant-dashboard .union-3-q0CZmi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
